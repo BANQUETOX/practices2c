@@ -1,3 +1,4 @@
+# Calcule el menor de dos números.
 def bigest_number(first_number, second_number):
     if first_number > second_number:
         print("El numero mayor es el primero")
